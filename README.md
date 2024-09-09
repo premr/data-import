@@ -70,6 +70,13 @@ example, this includes maps to and from common geographic identifiers.
 Google group. For example, membership in this group provides access to debug
 logs of pre-submit tests that run for your Pull Request.
 
+#### Get a dataset ready for upload
+
+Once you've identified a dataset, please follow the steps here to prepare your dataset for upload: 
+https://github.com/datacommonsorg/data/blob/master/docs/life_of_a_dataset.md
+
+
+
 #### Creating Pull Requests
 
 Contribute your changes by creating pull requests from your fork of this repo.
